@@ -4,7 +4,7 @@ This project was created as part of the Hack the North 2021 hackathon. Our goal 
 
 ## Try Out
 
-You can try out the app here: [Rexxa](tinder-for-therapists.web.app)
+You can try out the app here: [Rexxa](https://tinder-for-therapists.web.app/)
 
 ## Laern More
 
